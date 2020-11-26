@@ -1,0 +1,5 @@
+If you don't have the a compiler for console C# you can test our program with the .exe in this path :
+ Intelligent KB tool\KB tool console\bin\Debug\netcoreapp3.1
+
+Best regards,
+Hugo Fournier and Imene Bennia

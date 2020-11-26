@@ -1,0 +1,13 @@
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\bin\Debug\netcoreapp3.1\KB tool console.exe
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\bin\Debug\netcoreapp3.1\KB tool console.deps.json
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\bin\Debug\netcoreapp3.1\KB tool console.runtimeconfig.json
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\bin\Debug\netcoreapp3.1\KB tool console.runtimeconfig.dev.json
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\bin\Debug\netcoreapp3.1\KB tool console.dll
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\bin\Debug\netcoreapp3.1\KB tool console.pdb
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\obj\Debug\netcoreapp3.1\KB tool console.csprojAssemblyReference.cache
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\obj\Debug\netcoreapp3.1\KB tool console.AssemblyInfoInputs.cache
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\obj\Debug\netcoreapp3.1\KB tool console.AssemblyInfo.cs
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\obj\Debug\netcoreapp3.1\KB tool console.csproj.CoreCompileInputs.cache
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\obj\Debug\netcoreapp3.1\KB tool console.dll
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\obj\Debug\netcoreapp3.1\KB tool console.pdb
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Intelligent KB tool\KB tool console\obj\Debug\netcoreapp3.1\KB tool console.genruntimeconfig.cache
